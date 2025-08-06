@@ -34,18 +34,18 @@
 **ขั้นตอนที่ 1 (เฉพาะ sensor.c):**
 - จำนวนไฟล์ source: 4 ไฟล์
 - ขนาด binary: 163041 bytes
-- การทำงาน: _________________
+- การทำงาน: จะโชว์อุณหภูมิเเละความชื้น
 <img width="562" height="213" alt="ภาพถ่ายหน้าจอ 2568-08-06 เวลา 10 49 39" src="https://github.com/user-attachments/assets/8266a57e-7cd6-49a0-8abb-34e39fc573cf" />
 
 
 **ขั้นตอนที่ 2 (เพิ่ม display.c):**
 - จำนวนไฟล์ source: 6 ไฟล์
 - ขนาด binary: 163925 bytes
-- การทำงาน: _________________
+- การทำงาน: จะเพิ่มข้อมูล value 1 เเละ 2 ซึ่งคือ อุณหภูมิเเละความชื้น
 <img width="564" height="268" alt="ภาพถ่ายหน้าจอ 2568-08-06 เวลา 10 54 57" src="https://github.com/user-attachments/assets/dfca0bd5-44b5-4c75-b22f-2d0d6929ed18" />
 
 **ขั้นตอนที่ 3 (เพิ่ม led.c):**
 - จำนวนไฟล์ source: 8 ไฟล์
 - ขนาด binary: 164873 bytes
-- การทำงาน: _________________
+- การทำงาน: จะเพิ่มสถาณะ LED เปิดปิด
 <img width="562" height="368" alt="ภาพถ่ายหน้าจอ 2568-08-06 เวลา 10 57 19" src="https://github.com/user-attachments/assets/19e13f76-f894-42ec-95ae-8b43bff4b0db" />
