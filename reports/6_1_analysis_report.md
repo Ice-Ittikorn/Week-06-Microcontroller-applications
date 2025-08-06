@@ -13,9 +13,7 @@
    
 2. **Build Process**: อธิบายขั้นตอนการ build ของ ESP-IDF ใน Docker container ตั้งแต่ source code จนได้ binary
 
-   1.เตรียม Source Code 
-
-      นำโปรเจกต์ ESP-IDF ที่มี CMakeLists.txt และ main/ พร้อม source code เข้าไปใน container
+   1.เตรียม Source Code  นำโปรเจกต์ ESP-IDF ที่มี CMakeLists.txt และ main/ พร้อม source code เข้าไปใน container
 
    2.เข้าสู่ Docker Container ใช้คำสั่ง docker-compose exec esp32-dev
 
